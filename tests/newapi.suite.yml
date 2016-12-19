@@ -1,0 +1,4 @@
+class_name: NewapiTester
+modules:
+    enabled:
+        - \Helper\Newapi
